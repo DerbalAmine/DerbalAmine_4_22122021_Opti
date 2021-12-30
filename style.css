@@ -370,7 +370,8 @@ a:hover {
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
-    .img2.0{
+    .img2
+    {
         width: 100%;
     }
     .nav > li .dropdown-menu a,
