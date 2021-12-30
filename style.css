@@ -870,6 +870,9 @@ h4 {
     .b-parallax {
         background-attachment: scroll;
     }
+    .imgadapter{
+        width: 100%;
+    }
     .page-container,
     #hero-bloc {
         overflow-x: hidden;
